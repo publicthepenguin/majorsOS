@@ -2,5 +2,5 @@
 
 Welcome to majorsOS! 
 
-majorsOS is a linux-kernal based distro themed off of the sexy Jonathan Majors.
+majorsOS is a linux-kernel based distro themed off of the sexy Jonathan Majors.
 Currently in production with a working beta build. 
